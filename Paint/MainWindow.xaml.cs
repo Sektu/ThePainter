@@ -50,5 +50,7 @@ namespace Paint2
                 _undoRedoCaretaker.Undo();
             }
         }
+
+        //no siema!!!!
     }
 }
